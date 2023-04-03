@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fc19314f387f4a49a906de741905052, type: 3}
+  m_Name: Player Data
+  m_EditorClassIdentifier: 
+  playerId: 0
+  playerName: 
+  avatarId: 7
+  playerHeight: 1.8
+  playerDevice: 0
+  mouseSensitivity: 0
+  avatarSpeed: 0
